@@ -26,7 +26,7 @@
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "view",
+				"stateMutability": "pure",
 				"type": "function"
 			},
 			{
@@ -129,11 +129,11 @@
 	},
 	"sources": {
 		"contracts/LearnFunction.sol": {
-			"keccak256": "0x4b542e2a74f4510eb0f14d8fc171646b1d3b91a9145e34cd05f86ec1bad99584",
+			"keccak256": "0x8ac399b5ffd804e44554e1e3eedf95a836748d975a0942061807bc905d770ea2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://84f03eeb17b0b525550f3aa701b71268b4153d8c181c4d8a5937b3acb0d5412d",
-				"dweb:/ipfs/QmR8zixBXfYfWhZsP8TaZi7jgJC75KHGjtHErhkqYsWuTN"
+				"bzz-raw://caf93125fb638842d6a4d22153db9c70060492e32f91987959a9bcfa39008e62",
+				"dweb:/ipfs/QmeVsEChy9cKcUbyGBvJxW9SReHmhjMgQAgnfDbt7XwPMo"
 			]
 		}
 	},
