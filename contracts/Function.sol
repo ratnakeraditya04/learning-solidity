@@ -29,12 +29,14 @@ contract Function {
     return (1 , 2 , true ) ;
 
 
-
+// Inputs are assigned without the Key - Value Pair 
     function callFunc() external public view returns(uint)
     {
         return someValuesWithFunctionality(0 , 1 , 2 , address(0) , "hi" , true) ;  
     }
 
+
+// Inputs are assigned with the Key - Value Pair 
     function callFuncWithValue() external public view returns (uint ) {
         return someValuesWithFunctionality(a: 0 , b: 1 , c: 2 , abc: address(0), hi: "hello" , check: "true") ; 
     }
