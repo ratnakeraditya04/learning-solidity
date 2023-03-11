@@ -10,8 +10,10 @@ Source - Daulat Hossain - Solidity For Beginners - Course Video + Practice Code 
 
 There are several codes on from very basic to some advanced concepts in solidity programming language. Do check it out and learn more about it. 
 
+# NOTE - 
+I am already adding my progress in contracts folder. To see how each contract works, go to REMIX IDE and copy the .sol file you want to access. Rest all the repositories has not been touched at all. 
 
-# REMIX DEFAULT WORKSPACE
+# REMIX DEFAULT WORKSPACE - DEFAULT POINTS
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
@@ -39,3 +41,6 @@ Output from script will appear in remix terminal.
 Please note, require/import is supported in a limited manner for Remix supported modules.
 For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+
+
+
